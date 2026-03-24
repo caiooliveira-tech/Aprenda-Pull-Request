@@ -1,9 +1,9 @@
-Nome: Fulano da Silva
+Nome: Luiz gonzaga
 
-Comida favorita: Pipoca
+Comida favorita: Cebola 
 
-Localidade: São Paulo -SP
+Localidade: Acre
 
 Aprendendo: Git
 
-Sobre: Vai Corinthians!
+Sobre: Sobre
