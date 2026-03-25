@@ -1,9 +1,9 @@
-Nome: Fulano da Silva
+Nome: Ingrid Ramalho 
 
-Comida favorita: Pipoca
+Comida favorita: Macarrão
 
 Localidade: São Paulo -SP
 
 Aprendendo: Git
-
+"
 Sobre: Vai Corinthians!
