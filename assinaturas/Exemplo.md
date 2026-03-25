@@ -1,9 +1,9 @@
-Nome: Fulano da Silva
+Nome: Sávio Pessôa Afonso
 
-Comida favorita: Pipoca
+Comida favorita: Pudin
 
-Localidade: São Paulo -SP
+Localidade: São Paulo-SP
 
 Aprendendo: Git
 
-Sobre: Vai Corinthians!
+Sobre: Quem tem mais tem 3
