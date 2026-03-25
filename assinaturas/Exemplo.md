@@ -1,6 +1,6 @@
-Nome: Fulano da Silva
+Nome: fulano da silva
 
-Comida favorita: Pipoca
+Comida favorita: pipoca
 
 Localidade: São Paulo -SP
 
