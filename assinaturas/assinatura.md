@@ -6,4 +6,4 @@ Localidade: São Paulo -SP
 
 Aprendendo: Git
 
-Sobre: Vai Corinthians! Poderose TIMÃO
+Sobre: Vai Corinthians! Poderoso TIMÃO!!!!!!
