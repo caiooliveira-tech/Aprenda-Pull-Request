@@ -1,9 +1,9 @@
-Nome: Fulano da Silva
+Nome: Joao Pedro Belon
 
-Comida favorita: Pipoca
+Comida favorita: Parmegiana
 
-Localidade: São Paulo -SP
+Localidade: São Paulo -Guarulhos
 
 Aprendendo: Git
 
-Sobre: Vai Corinthians!
+Sobre: VAI SAO PAULO! 
