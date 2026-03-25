@@ -1,9 +1,9 @@
-Nome: Fulano da Silva
+Name: Raul Azzi Corsi
 
-Comida favorita: Pipoca
+Fav Food: Fries
 
-Localidade: São Paulo -SP
+Location: São Paulo -SP
 
-Aprendendo: Git
+Learning: Git?
 
-Sobre: Vai Corinthians!
+About:
