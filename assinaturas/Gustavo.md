@@ -1,6 +1,6 @@
-Nome: Fulano da Silva
+Nome: Gustavo Rezende Louro
 
-Comida favorita: Pipoca
+Comida favorita: Churrasco
 
 Localidade: São Paulo -SP
 
