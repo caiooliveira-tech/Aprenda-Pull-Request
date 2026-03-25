@@ -4,6 +4,6 @@ Comida favorita: Lasanha
 
 Localidade: São Paulo -SP
 
-Aprendendo: Git
+Aprendendo: Git 
 
 Sobre: Aula Pull-Request
