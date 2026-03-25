@@ -1,9 +1,9 @@
-Nome: Fulano da Silva
+Nome: Maria Gabriela G Dantas
 
-Comida favorita: Pipoca
+Comida favorita: Strogonoff
 
 Localidade: São Paulo -SP
 
 Aprendendo: Git
 
-Sobre: Vai Corinthians!
+Sobre: Vai Palmeiras!
