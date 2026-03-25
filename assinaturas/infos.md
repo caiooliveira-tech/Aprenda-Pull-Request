@@ -1,6 +1,6 @@
-Nome: Fulano da Silva
+Nome: Danielle Rodrigues de freitas
 
-Comida favorita: Pipoca
+Comida favorita: Pizza
 
 Localidade: São Paulo -SP
 
