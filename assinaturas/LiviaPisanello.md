@@ -6,4 +6,4 @@ Localidade: São Paulo -SP
 
 Aprendendo: Git
 
-Sobre: Vai Corinthians!
+Sobre: palmeiras meu palmeiras meu palmeiras
