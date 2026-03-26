@@ -1,9 +1,9 @@
-Nome: Fulano da Silva
+Nome: Gustavo Pereira Inoue
 
-Comida favorita: Pipoca
+Comida favorita: Parmegiana
 
-Localidade: São Paulo -SP
+Localidade: Osasco -SP
 
-Aprendendo: Git
+Aprendendo: Git e GitHub
 
-Sobre: Vai Corinthians!
+Sobre: Vai São Paulo!
