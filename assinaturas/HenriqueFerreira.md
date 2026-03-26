@@ -1,8 +1,8 @@
 Nome: Fulano da Silva
 
-Comida favorita: Pipoca
+Comida favorita: Parmegiana de Carne
 
-Localidade: São Paulo -SP
+Localidade: Suzano -SP
 
 Aprendendo: Git
 
