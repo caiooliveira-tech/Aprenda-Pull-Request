@@ -1,9 +1,9 @@
-Nome: Fulano da Silva
+Nome: andrey luigi
 
-Comida favorita: Pipoca
+Comida favorita: Churrasco
 
 Localidade: São Paulo -SP
 
 Aprendendo: Git
 
-Sobre: Vai Corinthians!
+Sobre: Vai Corinthians! O MAIOR DO MUNDO!
