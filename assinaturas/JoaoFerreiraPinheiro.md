@@ -1,6 +1,6 @@
-Nome: Fulano da Silva
+Nome: Gabriel Juarez
 
-Comida favorita: Pipoca
+Comida favorita: Sushi
 
 Localidade: São Paulo -SP
 
