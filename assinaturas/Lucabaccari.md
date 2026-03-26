@@ -6,4 +6,4 @@ Localidade: São Paulo -SP
 
 Aprendendo: Git
 
-Sobre: Vai Corinthians!
+Sobre: antes morto do que preto e branco! 
