@@ -1,4 +1,4 @@
-Nome: Fulano da Silva
+Nome: leonardo
 
 Comida favorita: Pipoca
 
@@ -6,4 +6,4 @@ Localidade: São Paulo -SP
 
 Aprendendo: Git
 
-Sobre: Vai Corinthians!
+Sobre: Vai lusa!
